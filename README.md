@@ -12,3 +12,11 @@
 #import "RichTextImageEditorBaseViewCtrl.h"
 
 显示的控制器 继承 RichTextImageEditorBaseViewCtrl 即可。
+
+其他编辑器：
+
+1、[一个文本编辑器 简书和新浪博客都在用](https://github.com/wordpress-mobile/WordPress-Editor-iOS)
+
+2、[模仿石墨文档文档编辑器](https://github.com/littleMeaning/SimpleWord)
+
+![image](https://github.com/littleMeaning/SimpleWord/blob/master/display.gif)
