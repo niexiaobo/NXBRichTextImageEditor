@@ -1,4 +1,7 @@
 
+## 富文本编辑器：最新: 请转移到 https://github.com/niexiaobo/RichTextEditor 
+
+
 [![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000)]()
 [![License](https://img.shields.io/github/license/bang590/JSPatch.svg?style=flat)](https://github.com/bang590/JSPatch/blob/master/LICENSE)
 
